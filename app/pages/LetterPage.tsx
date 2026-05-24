@@ -127,7 +127,7 @@ Someone who truly values you.
                   top: `${20 + i * 15}%`,
                 }}
               >
-                ���
+                🌹
               </motion.div>
             ))}
           </div>
